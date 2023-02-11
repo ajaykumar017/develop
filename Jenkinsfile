@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Continous Ajay') {
+        stage('Continous Download') {
             steps {
                 echo 'Downloading'
             }
