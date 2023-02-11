@@ -12,7 +12,7 @@ stage('Continous Integration') {
                 echo 'Integration'
     }
 }
-stage('Continous Deployement') {
+stage('Continous Deployemeny') {
             steps {
                 echo 'Deploying'
      }
